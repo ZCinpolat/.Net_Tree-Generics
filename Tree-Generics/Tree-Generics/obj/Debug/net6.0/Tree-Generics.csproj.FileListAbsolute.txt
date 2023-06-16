@@ -1,0 +1,15 @@
+C:\Source\.Net\.Net_Tree-Generics\Tree-Generics\Tree-Generics\bin\Debug\net6.0\Tree-Generics.exe
+C:\Source\.Net\.Net_Tree-Generics\Tree-Generics\Tree-Generics\bin\Debug\net6.0\Tree-Generics.deps.json
+C:\Source\.Net\.Net_Tree-Generics\Tree-Generics\Tree-Generics\bin\Debug\net6.0\Tree-Generics.runtimeconfig.json
+C:\Source\.Net\.Net_Tree-Generics\Tree-Generics\Tree-Generics\bin\Debug\net6.0\Tree-Generics.dll
+C:\Source\.Net\.Net_Tree-Generics\Tree-Generics\Tree-Generics\bin\Debug\net6.0\Tree-Generics.pdb
+C:\Source\.Net\.Net_Tree-Generics\Tree-Generics\Tree-Generics\obj\Debug\net6.0\Tree-Generics.csproj.AssemblyReference.cache
+C:\Source\.Net\.Net_Tree-Generics\Tree-Generics\Tree-Generics\obj\Debug\net6.0\Tree-Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\.Net\.Net_Tree-Generics\Tree-Generics\Tree-Generics\obj\Debug\net6.0\Tree-Generics.AssemblyInfoInputs.cache
+C:\Source\.Net\.Net_Tree-Generics\Tree-Generics\Tree-Generics\obj\Debug\net6.0\Tree-Generics.AssemblyInfo.cs
+C:\Source\.Net\.Net_Tree-Generics\Tree-Generics\Tree-Generics\obj\Debug\net6.0\Tree-Generics.csproj.CoreCompileInputs.cache
+C:\Source\.Net\.Net_Tree-Generics\Tree-Generics\Tree-Generics\obj\Debug\net6.0\Tree-Generics.dll
+C:\Source\.Net\.Net_Tree-Generics\Tree-Generics\Tree-Generics\obj\Debug\net6.0\refint\Tree-Generics.dll
+C:\Source\.Net\.Net_Tree-Generics\Tree-Generics\Tree-Generics\obj\Debug\net6.0\Tree-Generics.pdb
+C:\Source\.Net\.Net_Tree-Generics\Tree-Generics\Tree-Generics\obj\Debug\net6.0\Tree-Generics.genruntimeconfig.cache
+C:\Source\.Net\.Net_Tree-Generics\Tree-Generics\Tree-Generics\obj\Debug\net6.0\ref\Tree-Generics.dll
